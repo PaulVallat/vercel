@@ -1,5 +1,5 @@
 // pages/about.js
-import Image from 'next/image';
+
 export default function ContactPage() {
   return (
     <div style={{ padding: 40 }}>
